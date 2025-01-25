@@ -1,9 +1,8 @@
-package com.mymovieapp.ui.theme
+package com.mymovieapp
 
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.navigation.NavController
-import com.mymovieapp.MovieViewModel
 
 @Composable
 fun MovieDetailsScreen(movieId:String?, movieViewModel:MovieViewModel, navController: NavController){

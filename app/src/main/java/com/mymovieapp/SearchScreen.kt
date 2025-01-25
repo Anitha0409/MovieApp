@@ -1,7 +1,6 @@
-package com.mymovieapp.ui.theme
+package com.mymovieapp
 
 import androidx.compose.foundation.layout.Arrangement
-import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
@@ -23,7 +22,6 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.navigation.NavController
-import com.mymovieapp.MovieViewModel
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable

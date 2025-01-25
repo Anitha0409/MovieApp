@@ -1,4 +1,4 @@
-package com.mymovieapp.ui.theme
+package com.mymovieapp
 
 import android.widget.Toast
 import androidx.compose.foundation.Image
@@ -42,9 +42,6 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
-import com.mymovieapp.Movie
-import com.mymovieapp.MovieStatus
-import com.mymovieapp.MovieViewModel
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable

@@ -1,16 +1,14 @@
-package com.mymovieapp.ui.theme
+package com.mymovieapp
 
 import android.annotation.SuppressLint
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.remember
 import androidx.lifecycle.viewmodel.compose.viewModel
-import androidx.navigation.NavArgument
 import androidx.navigation.NavType
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
-import com.mymovieapp.MovieViewModel
 
 
 @SuppressLint("UnrememberedGetBackStackEntry")
